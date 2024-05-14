@@ -1,5 +1,5 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
- ": {venomidapp} {venomid:(Codespaces: special zebra)} 
-} "features
+  "features": {venomidapp} {venomid:(Codespaces: special zebra)} {venomdrop-core/venomdrop}
+} 
 
